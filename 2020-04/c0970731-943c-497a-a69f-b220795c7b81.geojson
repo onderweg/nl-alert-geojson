@@ -1,0 +1,34 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "c0970731-943c-497a-a69f-b220795c7b81",
+        "description": "Brand met veel rook aan de Deurnesche Maria Peel. Als u last van rook heeft: ga naar binnen, sluit ramen en deuren, zet ventilatie uit. Verlaat het gebied."
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    5.8766,
+                    51.4448
+                ],
+                [
+                    5.8955,
+                    51.4204
+                ],
+                [
+                    5.5058,
+                    51.3737
+                ],
+                [
+                    5.5068,
+                    51.4467
+                ],
+                [
+                    5.8766,
+                    51.4448
+                ]
+            ]
+        ]
+    }
+}
