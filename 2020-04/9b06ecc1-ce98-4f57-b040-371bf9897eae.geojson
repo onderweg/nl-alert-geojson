@@ -1,0 +1,34 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "9b06ecc1-ce98-4f57-b040-371bf9897eae",
+        "description": "Evacuatie Herkenbosch, vanwege aanhoudende rook wordt Herkenbosch gefaseerd geevacueerd. Meer informatie is te vinden op Roerdalen.nl, Limburg-Veilig.nl, en L1.nl"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    6.049,
+                    51.1554
+                ],
+                [
+                    6.0623,
+                    51.1619
+                ],
+                [
+                    6.0723,
+                    51.158
+                ],
+                [
+                    6.0654,
+                    51.15
+                ],
+                [
+                    6.049,
+                    51.1554
+                ]
+            ]
+        ]
+    }
+}
