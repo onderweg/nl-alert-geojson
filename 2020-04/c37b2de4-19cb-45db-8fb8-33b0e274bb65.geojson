@@ -1,0 +1,42 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "c37b2de4-19cb-45db-8fb8-33b0e274bb65",
+        "description": "Zeer grote natuurbrand Moergestel. Als u last van rook heeft: ga naar binnen, sluit ramen en deuren, zet ventilatie uit. Nadere informatie en updates op vrmwb.nl."
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    5.1127,
+                    51.5254
+                ],
+                [
+                    5.0708,
+                    51.5142
+                ],
+                [
+                    5.0279,
+                    51.5123
+                ],
+                [
+                    5.0214,
+                    51.548
+                ],
+                [
+                    5.0918,
+                    51.5523
+                ],
+                [
+                    5.1254,
+                    51.5444
+                ],
+                [
+                    5.1127,
+                    51.5254
+                ]
+            ]
+        ]
+    }
+}
