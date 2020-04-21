@@ -1,0 +1,102 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "718cb416-5e67-417c-a063-ac98124a04bc",
+        "description": "Er woedt een grote natuurbrand meinweg gebied Herkenbosch. Zorgt voor flinke rookontwikkeling blijf uit rook, blijf binnen, sluit ramen en deuren en zet ventilatie uit. Kijkers zijn NIET welkom, blijf weg."
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    6.0693,
+                    51.1863
+                ],
+                [
+                    6.0795,
+                    51.1746
+                ],
+                [
+                    6.0967,
+                    51.1733
+                ],
+                [
+                    6.107,
+                    51.1763
+                ],
+                [
+                    6.1138,
+                    51.1832
+                ],
+                [
+                    6.1429,
+                    51.1917
+                ],
+                [
+                    6.152,
+                    51.1901
+                ],
+                [
+                    6.1544,
+                    51.1818
+                ],
+                [
+                    6.1351,
+                    51.1763
+                ],
+                [
+                    6.1587,
+                    51.1672
+                ],
+                [
+                    6.1617,
+                    51.1571
+                ],
+                [
+                    6.1592,
+                    51.156
+                ],
+                [
+                    6.1597,
+                    51.1514
+                ],
+                [
+                    6.1429,
+                    51.15
+                ],
+                [
+                    6.12,
+                    51.1483
+                ],
+                [
+                    6.1196,
+                    51.148
+                ],
+                [
+                    6.1183,
+                    51.1479
+                ],
+                [
+                    6.0785,
+                    51.1358
+                ],
+                [
+                    6.0208,
+                    51.1265
+                ],
+                [
+                    6.005,
+                    51.153
+                ],
+                [
+                    6.0476,
+                    51.1784
+                ],
+                [
+                    6.0693,
+                    51.1863
+                ]
+            ]
+        ]
+    }
+}
