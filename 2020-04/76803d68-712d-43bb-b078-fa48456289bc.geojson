@@ -1,0 +1,42 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "76803d68-712d-43bb-b078-fa48456289bc",
+        "description": "Brand met veel rookontwikkeling Centrum Leeuwarden. Als u last van rook heeft: ga naar binnen, sluit ramen en deuren, zet ventilatie uit. Nadere informatie en updates op www.twitter.com\/brandweer.frl"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    5.8097,
+                    53.2128
+                ],
+                [
+                    5.7942,
+                    53.199
+                ],
+                [
+                    5.7664,
+                    53.1988
+                ],
+                [
+                    5.7547,
+                    53.2074
+                ],
+                [
+                    5.7664,
+                    53.215
+                ],
+                [
+                    5.7873,
+                    53.2208
+                ],
+                [
+                    5.8097,
+                    53.2128
+                ]
+            ]
+        ]
+    }
+}
