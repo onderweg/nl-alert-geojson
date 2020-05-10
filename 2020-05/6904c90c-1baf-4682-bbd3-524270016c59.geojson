@@ -1,0 +1,34 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "6904c90c-1baf-4682-bbd3-524270016c59",
+        "description": "Gevaar in Colijnsplaat. Ga naar\/blijf binnen, sluit ramen en deuren. Telefoneer of sms niet. Info op zeelandveilig.nl"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    3.8311,
+                    51.6033
+                ],
+                [
+                    3.8565,
+                    51.6033
+                ],
+                [
+                    3.8579,
+                    51.5969
+                ],
+                [
+                    3.829,
+                    51.5958
+                ],
+                [
+                    3.8311,
+                    51.6033
+                ]
+            ]
+        ]
+    }
+}
