@@ -1,0 +1,42 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "cca4258b-1fb0-4f04-9ea1-5a0aff5142fc",
+        "description": "Woningbrand met rook 's Gravenweg Capelle ad IJssel. Last van de rook? Sluit ramen en deuren, schakel ventilatiesystemen uit. Meer info alert.rijnmondveilig.nl"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    4.5902,
+                    51.9487
+                ],
+                [
+                    4.5854,
+                    51.9622
+                ],
+                [
+                    4.6142,
+                    51.9705
+                ],
+                [
+                    4.6321,
+                    51.9516
+                ],
+                [
+                    4.619,
+                    51.933
+                ],
+                [
+                    4.5936,
+                    51.9463
+                ],
+                [
+                    4.5902,
+                    51.9487
+                ]
+            ]
+        ]
+    }
+}
