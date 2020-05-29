@@ -1,0 +1,42 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "e0e8eb5f-354d-418b-ae67-9bdcd6b4c59c",
+        "description": "Blijf weg bij de brand in Hapert. Geef hulpdiensten de ruimte."
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    5.2569,
+                    51.3642
+                ],
+                [
+                    5.2597,
+                    51.3634
+                ],
+                [
+                    5.2511,
+                    51.3681
+                ],
+                [
+                    5.2734,
+                    51.3739
+                ],
+                [
+                    5.2985,
+                    51.3604
+                ],
+                [
+                    5.2655,
+                    51.3475
+                ],
+                [
+                    5.2569,
+                    51.3642
+                ]
+            ]
+        ]
+    }
+}
