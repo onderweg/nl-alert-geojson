@@ -1,0 +1,46 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "6b74a469-11cf-4118-bf3c-4cace990f004",
+        "description": "Brand met veel rook industrieterrein Hapert. Als u last van rook heeft: ga naar binnen, sluit ramen en deuren, zet ventilatie uit. "
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    5.2651,
+                    51.3576
+                ],
+                [
+                    5.2765,
+                    51.3421
+                ],
+                [
+                    5.2425,
+                    51.3282
+                ],
+                [
+                    5.2233,
+                    51.3218
+                ],
+                [
+                    5.1886,
+                    51.3342
+                ],
+                [
+                    5.191,
+                    51.3606
+                ],
+                [
+                    5.2284,
+                    51.3711
+                ],
+                [
+                    5.2651,
+                    51.3576
+                ]
+            ]
+        ]
+    }
+}
