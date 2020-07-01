@@ -1,0 +1,38 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "579dc7df-68e1-43e3-8e55-1a45526d8c04",
+        "description": "Brand in Singelgarage, Alkmaar is onder controle. Gevaar door de rook is geweken. Nadere info: website gemeente Alkmaar, twitter vrnhn. "
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    4.7457,
+                    52.6386
+                ],
+                [
+                    4.757,
+                    52.6341
+                ],
+                [
+                    4.7529,
+                    52.6305
+                ],
+                [
+                    4.7392,
+                    52.6288
+                ],
+                [
+                    4.7313,
+                    52.6355
+                ],
+                [
+                    4.7457,
+                    52.6386
+                ]
+            ]
+        ]
+    }
+}
