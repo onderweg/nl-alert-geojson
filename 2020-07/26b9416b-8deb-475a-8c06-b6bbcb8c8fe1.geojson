@@ -1,0 +1,38 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "26b9416b-8deb-475a-8c06-b6bbcb8c8fe1",
+        "description": "Brand met veel rook singelgarage. Als u last van rook heeft: ga naar binnen, sluit ramen en deuren, zet ventilatie uit. Nadere info en updates op twitter @vrnhn"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    4.7316,
+                    52.653
+                ],
+                [
+                    4.7653,
+                    52.6495
+                ],
+                [
+                    4.771,
+                    52.6328
+                ],
+                [
+                    4.7474,
+                    52.6151
+                ],
+                [
+                    4.7234,
+                    52.6349
+                ],
+                [
+                    4.7316,
+                    52.653
+                ]
+            ]
+        ]
+    }
+}
