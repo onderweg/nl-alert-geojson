@@ -1,0 +1,46 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "0b3eea80-a9c0-4c43-9bb6-a881960edb09",
+        "description": "Rode vlag op strand gehesen, gevaarlijke stromingen in zee, ga maximaal tot kniehoogte het water in, volg aanwijzingen van reddingsbrigade en hulpdiensten op!\n"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    4.505,
+                    52.3185
+                ],
+                [
+                    4.4288,
+                    52.2303
+                ],
+                [
+                    4.3402,
+                    52.1486
+                ],
+                [
+                    4.1322,
+                    51.9967
+                ],
+                [
+                    4.115,
+                    52.0051
+                ],
+                [
+                    4.354,
+                    52.1962
+                ],
+                [
+                    4.4741,
+                    52.3277
+                ],
+                [
+                    4.505,
+                    52.3185
+                ]
+            ]
+        ]
+    }
+}
