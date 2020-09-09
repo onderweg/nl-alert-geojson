@@ -1,0 +1,34 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "313e9e78-17ca-4753-b1dc-0d5bab24244c",
+        "description": "Brand met veel rook in Wijnjewoude. Als u last van rook heeft: ga naar binnen, sluit ramen en deuren, zet ventilatie uit. Nadere informatie en updates op twitter.com\/VRFryslan"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    6.2086,
+                    53.0707
+                ],
+                [
+                    6.2742,
+                    53.0692
+                ],
+                [
+                    6.244,
+                    53.0358
+                ],
+                [
+                    6.1856,
+                    53.0571
+                ],
+                [
+                    6.2086,
+                    53.0707
+                ]
+            ]
+        ]
+    }
+}
