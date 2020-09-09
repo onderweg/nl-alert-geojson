@@ -1,0 +1,34 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "f0f28366-8a6b-4549-b61b-60e95242604a",
+        "description": "Brand in Wijnjewoude onder controle, NL-Alert ten einde."
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    6.2086,
+                    53.0707
+                ],
+                [
+                    6.2742,
+                    53.0692
+                ],
+                [
+                    6.244,
+                    53.0358
+                ],
+                [
+                    6.1856,
+                    53.0571
+                ],
+                [
+                    6.2086,
+                    53.0707
+                ]
+            ]
+        ]
+    }
+}
