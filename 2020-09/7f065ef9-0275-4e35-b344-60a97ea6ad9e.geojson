@@ -1,0 +1,38 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "7f065ef9-0275-4e35-b344-60a97ea6ad9e",
+        "description": "Brand met veel rook  Valthermond. Als u last van rook heeft: ga naar binnen, sluit ramen en deuren, zet ventilatie uit. Nadere informatie en updates op: @VRDrenthe op twitter"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    6.9313,
+                    52.9318
+                ],
+                [
+                    7.0233,
+                    52.9664
+                ],
+                [
+                    7.116,
+                    52.8823
+                ],
+                [
+                    6.977,
+                    52.8276
+                ],
+                [
+                    6.8966,
+                    52.9196
+                ],
+                [
+                    6.9313,
+                    52.9318
+                ]
+            ]
+        ]
+    }
+}
