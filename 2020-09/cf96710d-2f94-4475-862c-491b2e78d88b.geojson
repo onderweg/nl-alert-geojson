@@ -1,0 +1,38 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": "cf96710d-2f94-4475-862c-491b2e78d88b",
+        "description": "NL-Alert Valthermond wordt hierbij ingetrokken"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    6.9313,
+                    52.9318
+                ],
+                [
+                    7.0233,
+                    52.9664
+                ],
+                [
+                    7.116,
+                    52.8823
+                ],
+                [
+                    6.977,
+                    52.8276
+                ],
+                [
+                    6.8966,
+                    52.9196
+                ],
+                [
+                    6.9313,
+                    52.9318
+                ]
+            ]
+        ]
+    }
+}
